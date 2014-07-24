@@ -14,6 +14,9 @@ A cool way to display color palettes on your WordPress site.
 
 Finally a cool way to display color palettes on your site. This tiny little plugin gives you a cool way to display color palette on your pages.
 
+Example of what it looks like:
+http://halgatewood.com/palettes/
+
 Use the shortcode to and pass in a list of colors:
 
 `[awe_palette colors="434858,5886c5,#f2674a,c6006d"]`
@@ -30,8 +33,6 @@ It can handle 10 colors out of the box. To make more simply create some CSS like
 
 `.awe-color-palette.count-20 .color { width: 5%; }`
 
-Example of what it looks like:
-http://halgatewood.com/palettes/
 
 == Installation ==
 
