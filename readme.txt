@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: halgatewood
-Donate link: https://halgatewood.com/freebies/awesome-color-palettes/
+Donate link: https://halgatewood.com/donate/
 Tags: colors, color, color palettes, colour, colour palettes, palettes, shortcode
 Requires at least: 3.0
 Tested up to: 4.1
