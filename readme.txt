@@ -2,7 +2,7 @@
 Contributors: halgatewood
 Donate link: https://halgatewood.com/donate/
 Tags: colors, color, color palettes, colour, colour palettes, palettes, shortcode
-Requires at least: 3.0
+Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
